@@ -1,0 +1,19 @@
+{
+  "name": "chat-app-backend",
+  "version": "1.0.0",
+  "description": "\"Chat App using MEAN Stack\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Spandan Pramanik",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
